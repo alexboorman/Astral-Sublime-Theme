@@ -25,3 +25,6 @@ _Dim_
 ![astral-dim-cssoptimized](https://github.com/AlexBoorman/Astral-Sublime-Theme/blob/master/screenshots/astral-dim-cssoptimized.png)
 _Bright_
 ![astral-bright-cssoptimized](https://github.com/AlexBoorman/Astral-Sublime-Theme/blob/master/screenshots/astral-bright-cssoptimized.png)
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/AlexBoorman/astral-sublime-theme/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
